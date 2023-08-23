@@ -1,4 +1,4 @@
-cilium-subchart:
+cilium:
   ipam:
     operator:
       clusterPoolIPv4PodCIDRList: 10.92.0.0/16
